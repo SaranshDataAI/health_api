@@ -5,3 +5,5 @@ scikit-learn==1.6.1
 numpy==1.26.4
 pydantic==2.6.4
 pydantic-core==2.16.3
+imbalanced-learn==0.12.0
+
